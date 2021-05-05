@@ -1,49 +1,45 @@
 Negócio
 ===============================
 Fábrica de formas;
-===============================
+
 Atividades de negócio (o que)
-
+===============================================================
 -Fazer formas quadradas, circulares, retangulares;
-
 -Decorar formas; 
-
 -Receber pedidos;
-
 -Divulgação do trabalho nas redes sociais;
 
-
 Problema/Oportunidade (Por quê)
-=======================================================
-
+==================================================================
 O Proprietário precisa otimizar o software da empresa, adicionando uma função para calcular área e perímetro de suas formas;
-
 Por que essas funções foram requisitadas agora? 
-
 Porque adicionamos novos modelos de formas na produção;
-
 Como o cálculo do perímetro e área ajudaria no desenvolvimento desta atividade?
-
 Para produzir formas com dados mais precisos;
 
-
 Processo de negócio
-==============================
+==============================================
 - O revendedor contacta a empresa via site ou e-mail abrindo um pedido de compra, preenchendo um relatório informando a quantidade e tipo de formas.
 -Empresa entra em contato com o revendedor via telefone ou e-mail para validar o pedido informando orçamento e tempo de elaboração das peças.
- -Caso o revendedor aceite os termos, o software da empresa contabiliza os produtos e envia para o setor de produção 
-
-
+ -Caso o revendedor aceite os termos, o software da empresa contabiliza os produtos e envia para o setor de produção.
+ -Apos o setor de produção fazer todas as peças ,entrega para a distribuidora
+ -Distribuidora efetuando a entrega.
 
 Regras de negócio (Como)
-====================================
+=========================================================
 -Tempo máximo da validação do pedido
  Ate 12h após o recebimento
 -Tempo máximo de produção das peças
  Até 5 dias uteis 
+ -Após a entrega do produto:
+ O revendedor  tem até um mes para fazer o pagamento
 
+ 
 Stakeholders
-====================
+=========================================
 -Revendedor
 -Representante empresa
 -Equipe de elaboração do software
+
+
+
