@@ -1,0 +1,32 @@
+Requisitos
+==========
+
+Projeto
+=====================
+- Os diagramas UML criados no projeto devem utilizar a ferramenta draw io,ferramenta cratuita na web
+- Além da entrega das funções, deverá ser produzido um manual com instruções de uso compostas por texto
+  e imagens;
+- O projeto deve envolver a documentação do produto que será desenvolvido seguindo o processo de
+  desenvolvimento em cascata
+- O sistema devera ser feito em Java
+
+Produto software
+==============================
+
+ Stakeholder
+ ==============================
+ - O sistema deve ser intuitivo e de facil usabilidade;
+
+  Sistema (software):
+  ============================
+
+  Funcionais
+  ===============================
+
+  Não Funcionais
+  ==========================
+
+
+
+
+
