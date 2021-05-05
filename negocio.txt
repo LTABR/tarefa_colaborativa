@@ -1,30 +1,47 @@
 Negócio
 ===============================
-Fábrica de formas;
+Fabrica de moldes plasticos
 
 Atividades de negócio (o que)
 ===============================================================
--Fazer formas quadradas, circulares, retangulares;
--Decorar formas; 
+-Logistica de moldes/forma
+-Desing moldes; 
 -Receber pedidos;
--Divulgação do trabalho nas redes sociais;
 
 Problema/Oportunidade (Por quê)
 ==================================================================
 O Proprietário precisa otimizar o software da empresa, adicionando uma função para calcular área e perímetro de suas formas;
+
 Por que essas funções foram requisitadas agora? 
-Porque adicionamos novos modelos de formas na produção;
+Porque adicionamos novos modelos de moldes na produção;
+
 Como o cálculo do perímetro e área ajudaria no desenvolvimento desta atividade?
-Para produzir formas com dados mais precisos;
+Para produzir formas/moldes de forma mais precisa;
 
 Processo de negócio
 ==============================================
-- O revendedor contacta a empresa via site ou e-mail abrindo um pedido de compra, preenchendo um relatório informando a quantidade e tipo de formas.
--Empresa entra em contato com o revendedor via telefone ou e-mail para validar o pedido informando orçamento e tempo de elaboração das peças.
- -Caso o revendedor aceite os termos, o software da empresa contabiliza os produtos e envia para o setor de produção.
- -Apos o setor de produção fazer todas as peças ,entrega para a distribuidora
- -Distribuidora efetuando a entrega para o revendedor
- -Após  30 dias o revendedor devolve o pagamento
+-->Logistica de formas/moldes;
+
+-O revendedor contacta a empresa via site ou e-mail abrindo um pedido de compra, preenchendo um relatório informando a quantidade,desing e tipo de formas/moldes.
+-Empresa entra em contato com o revendedor via telefone ou e-mail para validar o pedido informando orçamento e tempo de elaboração do produto.
+-Caso o revendedor aceite os termos, o software da empresa contabiliza os produtos e envia para o setor de produção.
+-Apos o setor de produção fazer todas as peças ,entrega para a distribuidora
+-Distribuidora efetuando a entrega para o revendedor
+-Após  30 dias o revendedor atribui o pagamento
+
+-->Decoração de formas
+
+-O revendedor ao preencher o relatorio da demanda informando  com um descrição ou com uso de imagens o design das formas;
+-A descrição é enviada para o setor de produção como um anexo na peças feitas;
+ (...)
+
+ -->Receber pedidos
+
+ -O usuario deve acessar e fazer login no site da empresa
+ -deve ir na aba pedido e abrir uma demanda
+ -informando : Quantidade,desing,tipo e forma de pagamento;
+(...)
+
 
 Regras de negócio (Como)
 =========================================================
@@ -32,15 +49,20 @@ Regras de negócio (Como)
  Ate 12h após o recebimento
 -Tempo máximo de produção das peças
  Até 5 dias uteis 
- -Após a entrega do produto:
- O revendedor  tem até um mes para fazer o pagamento
+-Após a entrega do produto:
+ O revendedor  tem até 30 dias para fazer o pagamento
 
  
 Stakeholders
 =========================================
 -Revendedor
 -Representante empresa
--Equipe de elaboração do software
+-clientes
+-Desenvolvedores
+
+Vocabulário
+===================================
+Moldes:Fôrma oca de metal, madeira etc. Configurada de acordo com o que se quer criar, na qual se verte substância líquida ou pastosa (metal derretido, gesso, concreto etc.) que, uma vez endurecida, reproduzirá a configuração da fôrma.
 
 
 
