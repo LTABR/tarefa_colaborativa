@@ -23,7 +23,8 @@ Processo de negócio
 -Empresa entra em contato com o revendedor via telefone ou e-mail para validar o pedido informando orçamento e tempo de elaboração das peças.
  -Caso o revendedor aceite os termos, o software da empresa contabiliza os produtos e envia para o setor de produção.
  -Apos o setor de produção fazer todas as peças ,entrega para a distribuidora
- -Distribuidora efetuando a entrega.
+ -Distribuidora efetuando a entrega para o revendedor
+ -Após  30 dias o revendedor devolve o pagamento
 
 Regras de negócio (Como)
 =========================================================
