@@ -8,6 +8,7 @@ Projeto
   e imagens;
 - O projeto deve envolver a documentação do produto que será desenvolvido seguindo o processo de
   desenvolvimento em cascata
+- O sistema devera ser feito em Java
 
 Produto software
 ==============================
