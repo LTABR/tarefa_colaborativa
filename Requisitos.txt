@@ -3,28 +3,37 @@ Requisitos
 
 Projeto
 =====================
-- Os diagramas UML criados no projeto devem utilizar a ferramenta draw io,ferramenta cratuita na web
-- Além da entrega das funções, deverá ser produzido um manual com instruções de uso compostas por texto
-  e imagens;
-- O projeto deve envolver a documentação do produto que será desenvolvido seguindo o processo de
-  desenvolvimento em cascata
-- O sistema devera ser feito em Java
+- Os diagramas UML criados no projeto devem utilizar a ferramenta draw.io, ferramenta gratuita 
+na web
+- Além da entrega das funções, deverá ser produzido um manual com instruções de uso compostas
+por texto e imagens;
+- O projeto deve envolver a documentação do produto que será desenvolvido seguindo o 
+processo de desenvolvimento em cascata
+- O sistema deverá ser feito em Java
 
 Produto software
+====================================================
+
+Stakeholder
 ==============================
+ -O sistema deve ser intuitivo e de fácil usabilidade;
 
- Stakeholder
- ==============================
- - O sistema deve ser intuitivo e de facil usabilidade;
+Sistema (software):
+=============================
+-As funções implementadas devem ser elaboradas em Java e incrementadas no sistema atual da empresa.
+-As classes e funções devem ser feitas com o modificador de acesso : Private prevenindo erros e alterações feitos por outros programadores. Possuindo funções para as alterações de dados
 
-  Sistema (software):
-  ============================
+Funcionais
+===============================
+-As funções devem ter integração com o software da empresa;
+-A função deve ter entrada de dados para executar o cálculo;
+-A resposta deve ser assíncrona;
 
-  Funcionais
-  ===============================
+Não Funcionais
+=============================
+-As funções devem ser simples e práticas;
+-Prevenir erros e falhas de programação;
 
-  Não Funcionais
-  ==========================
 
 
 
