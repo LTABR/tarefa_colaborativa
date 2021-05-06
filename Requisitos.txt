@@ -16,7 +16,7 @@ Produto software
 
 Stakeholder
 ==============================
- -O sistema deve ser intuitivo e de fácil usabilidade;
+ -O sistema deve ser intuitivo e de fácil entendimento;
 
 Sistema (software):
 =============================
