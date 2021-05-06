@@ -1,68 +1,64 @@
 Negócio
 ===============================
-Fábrica de moldes plásticos
+Fábrica de moldes plásticos.
 
 Atividades de negócio (o que)
 ===============================================================
--Logística de moldes/forma
--Design moldes; 
--Receber pedidos;
+-Logística de moldes/forma;
+-Design moldes;
+-Receber pedidos.
 
 Problema/Oportunidade (Por quê)
 ==================================================================
-O Proprietário precisa otimizar o software da empresa, adicionando uma função para calcular área e perímetro de suas formas;
+O Proprietário precisa otimizar o software da empresa, adicionando uma função para calcular área e perímetro de suas formas.
 
 Por que essas funções foram requisitadas agora? 
-Porque adicionamos novos modelos de moldes na produção;
+Porque adicionamos novos modelos de moldes na produção.
 
 Como o cálculo do perímetro e área ajudaria no desenvolvimento desta atividade?
-Para produzir formas/moldes de forma mais precisa;
+Para produzir formas/moldes de forma mais precisa.
 
 Processo de negócio
 ==============================================
 -->Logística de formas/moldes;
 
--O revendedor contacta a empresa via site ou e-mail abrindo um pedido de compra, preenchendo um relatório informando a quantidade, design e tipo de formas/moldes.
--Empresa entra em contato com o revendedor via telefone ou e-mail para validar o pedido informando orçamento e tempo de elaboração do produto.
--Caso o revendedor aceite os termos, o software da empresa contabiliza os produtos e envia para o setor de produção.
--Após o setor de produção fazer todas as peças, entrega para a distribuidora
--Distribuidora efetuando a entrega para o revendedor
--Após 30 dias o revendedor atribui o pagamento
+-O revendedor contacta a empresa via site ou e-mail abrindo um pedido de compra, preenchendo um relatório informando a quantidade, design e tipo de formas/moldes;
+-Empresa entra em contato com o revendedor via telefone ou e-mail para validar o pedido informando orçamento e tempo de elaboração do produto;
+-Caso o revendedor aceite os termos, o software da empresa contabiliza os produtos e envia para o setor de produção;
+-Após o setor de produção fazer todas as peças, entrega para a distribuidora;
+-Distribuidora efetuando a entrega para o revendedor;
+-Após 30 dias o revendedor atribui o pagamento.
 
--->Decoração de formas
+--> Decoração de formas
 
 -O revendedor ao preencher o relatório da demanda informando com uma descrição ou com uso de imagens o design das formas;
 -A descrição é enviada para o setor de produção como um anexo nas peças feitas;
  (...)
 
- -->Receber pedidos
+ --> Receber pedidos
 
  -O usuário deve acessar e fazer login no site da empresa
- -Deve ir na aba pedido e abrir uma demanda informando: Quantidade, design, tipo e forma de pagamento;
+ -Deve ir na aba pedido e abrir uma demanda informando: Quantidade, design, tipo de material e forma de pagamento;
 (...)
 
 
 Regras de negócio (Como)
 =========================================================
--Tempo máximo da validação do pedido
- Até 12h após o recebimento
--Tempo máximo de produção das peças
- Até 5 dias uteis 
+-Tempo máximo da validação do pedido;
+ Até 12h após o recebimento;
+-Tempo máximo de produção das peças;
+ Até 5 dias uteis.
 -Após a entrega do produto:
- O revendedor tem até 30 dias para fazer o pagamento
+ O revendedor tem até 30 dias para fazer o pagamento.
 
  
 Stakeholders
 =========================================
--Revendedor
--Representante empresa
--Clientes
--Desenvolvedores
+-Revendedor;
+-Representante da empresa;
+-Clientes;
+-Desenvolvedores.
 
 Vocabulário
 ===================================
-Moldes: Fôrma oca de metal, madeira etc. Configurada de acordo com o que se quer criar, na qual se verte substância líquida ou pastosa (metal derretido, gesso, concreto etc.) que, uma vez endurecida, reproduzirá a configuração da fôrma.
-
-
-
-
+Moldes: Fôrma oca de metal, madeira etc. Moldada de acordo com o que se quer criar, na qual se verte substância líquida ou pastosa (metal derretido, gesso, concreto etc.) que, uma vez endurecida, reproduzirá a configuração da fôrma.
