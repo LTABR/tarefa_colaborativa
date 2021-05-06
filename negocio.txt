@@ -2,7 +2,7 @@ Negócio
 ===============================
 Fábrica de moldes plásticos.
 
-Atividades de negócio (o que)
+Atividades de negócio (O que)
 ===============================================================
 -Logística de moldes/forma;
 -Design moldes;
@@ -20,7 +20,7 @@ Para produzir formas/moldes de forma mais precisa.
 
 Processo de negócio
 ==============================================
--->Logística de formas/moldes;
+--> Logística de formas/moldes;
 
 -O revendedor contacta a empresa via site ou e-mail abrindo um pedido de compra, preenchendo um relatório informando a quantidade, design e tipo de formas/moldes;
 -Empresa entra em contato com o revendedor via telefone ou e-mail para validar o pedido informando orçamento e tempo de elaboração do produto;
@@ -31,16 +31,15 @@ Processo de negócio
 
 --> Decoração de formas
 
--O revendedor ao preencher o relatório da demanda informando com uma descrição ou com uso de imagens o design das formas;
+-O revendedor preenche o relatório da demanda informando uma descrição ou imagens com o design das formas;
 -A descrição é enviada para o setor de produção como um anexo nas peças feitas;
- (...)
+-Com as descrições recebidas, a produção é iniciada.
 
- --> Receber pedidos
+--> Receber pedidos
 
- -O usuário deve acessar e fazer login no site da empresa
- -Deve ir na aba pedido e abrir uma demanda informando: Quantidade, design, tipo de material e forma de pagamento;
-(...)
-
+-O usuário deve acessar e fazer login no site da empresa;
+-Deve ir na aba pedido e abrir uma demanda informando: Quantidade, design, tipo de material e forma de pagamento;
+-O pedido deve ser registrado e enviado ao setor de produção.
 
 Regras de negócio (Como)
 =========================================================
@@ -49,7 +48,7 @@ Regras de negócio (Como)
 -Tempo máximo de produção das peças;
  Até 5 dias uteis.
 -Após a entrega do produto:
- O revendedor tem até 30 dias para fazer o pagamento.
+ O revendedor tem até 30 dias úteis para realizar o pagamento.
 
  
 Stakeholders
